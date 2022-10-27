@@ -1,0 +1,22 @@
+{
+  "name": "fire-brigade",
+  "version": "1.0.0",
+  "description": "this is fire-brigade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psurvase/fire-brigade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psurvase/fire-brigade/issues"
+  },
+  "homepage": "https://github.com/psurvase/fire-brigade#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

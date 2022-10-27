@@ -1,0 +1,103 @@
+{
+    "recommendedCourses" :[
+        {
+          "id":1,
+          "key":"firstCourse",
+          "courseImage":"../../assets/images/image6.png",
+          "courseHeader":"100 Days of Fireman Training",
+          "courseEditor":"By Esther Howard",
+          "courseCategories":"Fireman Traning",
+          "coursePrice":"599 ₹"
+        },
+        {
+          "id":2,
+          "key":"secondCourse",
+          "courseImage":"../../assets/images/image5.png",
+          "courseHeader":"Certificate in Industrial Safety",
+          "courseEditor":"By Gabriel Garcia Marques",
+          "courseCategories":"Diploma in Industrial Traning",
+          "coursePrice":"449 ₹"
+        },
+        {
+          "id":3,
+          "key":"thirdCourse",
+          "courseImage":"../../assets/images/image2.png",
+          "courseHeader":"Fire Safety",
+          "courseEditor":"By George Orwell ",
+          "courseCategories":"Fireman Traning",
+          "coursePrice":"799 ₹"
+        },
+        {
+          "id":4,
+          "key":"fourthCourse",
+          "courseImage":"../../assets/images/image4.png",
+          "courseHeader":"Diploma in Fire Safety",
+          "courseEditor":"By Jorge Luis Borges ",
+          "courseCategories":"Diploma in Industrial Traning",
+          "coursePrice":"999 ₹"
+        },
+        {
+          "id":5,
+          "key":"fifthCourse",
+          "courseImage":"../../assets/images/image5.png",
+          "courseHeader":"Diploma in Fire Management",
+          "courseEditor":"ByF Scott Fitzgerald",
+          "courseCategories":"Fireman Traning",
+          "coursePrice":"666 ₹"
+        },
+        {
+          "id":6,
+          "key":"sixthCourse",
+          "courseImage":"../../assets/images/image4.png",
+          "courseHeader":"Diploma in Fire Fighter",
+          "courseEditor":"By Luke Bisby",
+          "courseCategories":"Diploma in Industrial Traning",
+          "coursePrice":"450 ₹"
+        },
+        {
+          "id":7,
+          "key":"seventhCourse",
+          "courseImage":"../../assets/images/image7.png",
+          "courseHeader":"Fire Management",
+          "courseEditor":"By Bart Merci",
+          "courseCategories":"Fireman Traning",
+          "coursePrice":"500 ₹"
+        },
+        {
+          "id":8,
+          "key":"eightCourse",
+          "courseImage":"../../assets/images/image5.png",
+          "courseHeader":"Saftey Fire Management",
+          "courseEditor":"By Eva-Sara Celander",
+          "courseCategories":"Diploma in Industrial Traning",
+          "coursePrice":"600 ₹"
+        },
+        {
+          "id":9,
+          "key":"ninthCourse",
+          "courseImage":"../../assets/images/image7.png",
+          "courseHeader":"Fire Saftey Management",
+          "courseEditor":"By Jose Luis Torero",
+          "courseCategories":"Fireman Traning",
+          "coursePrice":"399 ₹"
+        },
+        {
+          "id":10,
+          "key":"tenthCourse",
+          "courseImage":"../../assets/images/image4.png",
+          "courseHeader":"Diploma in Fire Sub Officer",
+          "courseEditor":"By Mohammad Farazmand",
+          "courseCategories":"Diploma in Industrial Traning",
+          "coursePrice":"499 ₹"
+        },
+        {
+          "id":11,
+          "key":"elevnthCourse",
+          "courseImage":"../../assets/images/image1.png",
+          "courseHeader":"Testing",
+          "courseEditor":"By Wonsook Lee",
+          "courseCategories":"Diploma in Industrial Traning",
+          "coursePrice":"300 ₹"
+        }
+      ]
+}
